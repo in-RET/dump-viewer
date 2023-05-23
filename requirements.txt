@@ -56,7 +56,7 @@ PySide6-Essentials==6.5.0
 python-dateutil==2.8.2
 pytz==2023.3
 PyUtilib==6.0.0
-requests==2.29.0
+requests==2.31.0
 scipy==1.10.1
 SecretStorage==3.3.3
 shapely==2.0.1
